@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Web Developer (MERN)<br><br>Hi! I'm Basit Ali, a full-stack web developer passionate about building dynamic and user-friendly applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js).<br><br>This repository contains my code for various projects. Feel free to explore and learn!<br><br>Frontend:<br>React.js / Next.js<br>HTML5<br>Tailwind CSS<br>JavaScript (ES6+)<br><br>Backend:<br>Node.js<br>Express.js<br>MongoDB (with Mongoose)<br><br>DevOps:<br>Git<br>GitHub
+Hey there! I'm Basit Ali, a full-stack web developer (MERN)<br><br>Hey there!   I'm Basit Ali, a full-stack web developer passionate about crafting dynamic and user-friendly applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js).<br><br>This repository contains my code for various projects. Feel free to explore and learn!<br><br>Frontend:<br>React.js⚛️ / Next.js⚡️ (For server-side rendering & static generation)<br>HTML5<br>Tailwind CSS<br>JavaScript (ES6+)<br><br>Backend:⚙️:<br>Node.js ️(The engine powering your app)<br>Express.js(Building APIs with ease)<br>MongoDB(with Mongoose)<br><br>DevOps:<br>Git<br>GitHub
 
 
 ## 🌐 Socials:
